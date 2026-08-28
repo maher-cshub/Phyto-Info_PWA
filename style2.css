@@ -66,10 +66,9 @@
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.5s ease-out;
-    background-color: #ffffff;
-    /*overflow-y: scroll;*/
+    background-color: var(--primary-color);
     overflow-wrap: break-word;
-    
+
   }
 
   .active-content{
